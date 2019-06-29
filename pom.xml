@@ -92,11 +92,6 @@
     </build>
 
     <repositories>
-        <!-- 本地镜像-->
-        <repository>
-            <id>thirdparty</id>
-            <url>http://47.98.105.55:5602/nexus/content/repositories/thirdparty</url>
-        </repository>
         <repository>
             <id>snapshots</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
