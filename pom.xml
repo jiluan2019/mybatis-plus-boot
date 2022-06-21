@@ -16,7 +16,7 @@
         <springboot.version>2.1.6.RELEASE</springboot.version>
         <mybatis-plus.version>3.1.2</mybatis-plus.version>
         <lombok.version>1.18.8</lombok.version>
-        <mysql.version>5.1.26</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <hutool.version>4.5.15</hutool.version>
     </properties>
 
